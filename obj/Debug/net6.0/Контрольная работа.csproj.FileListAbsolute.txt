@@ -1,0 +1,15 @@
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.csproj.AssemblyReference.cache
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.AssemblyInfoInputs.cache
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.AssemblyInfo.cs
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.csproj.CoreCompileInputs.cache
+/Users/puchkov/Examples/Контрольная работа/bin/Debug/net6.0/Контрольная работа
+/Users/puchkov/Examples/Контрольная работа/bin/Debug/net6.0/Контрольная работа.deps.json
+/Users/puchkov/Examples/Контрольная работа/bin/Debug/net6.0/Контрольная работа.runtimeconfig.json
+/Users/puchkov/Examples/Контрольная работа/bin/Debug/net6.0/Контрольная работа.dll
+/Users/puchkov/Examples/Контрольная работа/bin/Debug/net6.0/Контрольная работа.pdb
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.dll
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/refint/Контрольная работа.dll
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.pdb
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/Контрольная работа.genruntimeconfig.cache
+/Users/puchkov/Examples/Контрольная работа/obj/Debug/net6.0/ref/Контрольная работа.dll

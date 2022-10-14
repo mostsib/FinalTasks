@@ -1,22 +1,25 @@
-﻿//оператор .Split
-//строка преобразуеться в массив где разделителем между элементами является ,
-//например
-string strLine = "шорох,порох,высота";
-string[] inArr = strLine.Split(",");
-//результатом выполнения будет
-//inArr[0]="шорох" : inArr[1]="порох" : inArr[2]="высота"
-
-//оператор .Join
-//преобразует массив в текстовую строку разделяя элементы , 
-string resultJoin = string.Join(",", inArr);
-//результатом выполнения будет
-//resultJoin="шорох,порох,высота"
-оператор для увеличения размера массива
-//оператор Array.Resize
-//увеличивает размер массива с сохранением данных находящихся в нем
-string[] outArr = new string[1];
-outArr[0]="Hello";
-Array.Resize(ref outArr, outArr.Length + 1);
-outArr[1]="World";
-//результатом выполнения будет
-// outArr[0]="Hello" : outArr[1]="World"
+﻿
+string[] array1 = new string[5] {"123", "ABC", "sunday", "world", "rus"};
+string[] array2 = new string[array1.Length];
+void SecondArrayWithIF(string[] array1, string[] array2)
+{
+    int count = 0;
+    for (int i = 0; i < array1.Length; i++)
+    {
+    if(array1[i].Length <= 3)
+        {
+        array2[count] = array1[i];
+        count++;
+        }
+    }
+}
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondArrayWithIF(array1, array2);
+PrintArray(array2);
